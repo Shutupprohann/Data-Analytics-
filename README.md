@@ -1,5 +1,3 @@
-# Data-Analytics-
-
 ### Annual Sales Analysis
 
 This project involved analyzing a retail dataset containing over 1,000 entries to uncover key trends and insights. Using Microsoft Excel, I created a dashboard with Pivot Tables and interactive charts to visualize monthly revenue, state-wise performance, and customer demographics.
